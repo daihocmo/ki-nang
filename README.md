@@ -1,2 +1,3 @@
-# mot-cai-buc-mac
-Một cái búc mác - Lưu trữ rất nhiều tài nguyên tự học không chọn lọc
+# Nghiện tự học
+
+Một trang đại tổng hợp cho việc *học rất nhiều thứ* (sở thích các thứ) thông qua các nguồn tài nguyên miễn phí trên Internet.
